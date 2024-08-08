@@ -91,7 +91,7 @@ Utilizei alguns conceitos e ferramentas para padronizar várias etapas do projet
 
 ## Deploy
 
-> https://projeto-mundo-real-fetch-api-github.vercel.app/
+> https://pokemon-list-olive.vercel.app/
 
 
 ## Executando o projeto localmente
@@ -100,7 +100,7 @@ Utilizei alguns conceitos e ferramentas para padronizar várias etapas do projet
 
 - Clone o projeto com
 
-  > git clone https://github.com/kelvincharlesdev/projeto-mundo-real-fetch-api-github.git
+  > git clone https://github.com/kelvincharlesdev/pokemon-list.git
 
 - Vá para a raiz do diretório
 
